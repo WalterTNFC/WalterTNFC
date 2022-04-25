@@ -1,4 +1,6 @@
-## Hello, my name is Walter Frazão, Software student and developer!
+## Hey there 👋, I'm Walter Frazão
+
+#### A developer from Brazil currently working as Software Developer Intern at [INTERA | Talent Hacking](https://www.linkedin.com/company/byintera/mycompany/) and studying at [Trybe](https://www.linkedin.com/school/betrybe/)
 <div align="center">
   <a href="https://github.com/WalterTNFC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalterTNFC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
