@@ -1,4 +1,4 @@
-## Oiii eu sou o Walter Frazão, desenvolvedor e estudante de Software!
+## Hello, my name is Walter Frazão, Software student and developer!
 <div align="center">
   <a href="https://github.com/WalterTNFC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalterTNFC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,9 +19,11 @@
  ##
  
 <!-- Programming Languages and Tools -->
-<h4 align="center">Languages:</h4>
+<div>
+<img align="right" alt="GIF" src="https://octodex.github.com/images/adventure-cat.png" width="500px"/>
+<h4 align="left">Languages:</h4>
 
-<p align="center">
+<p align="left">
  <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" alt="html5" width="40" height="40"/> </a>
  <!-- CSS  -->
@@ -33,9 +35,9 @@
 </p>
 
 
-<h4 align="center">Utility Tools:</h4>
+<h4 align="left">Utility Tools:</h4>
 
-<p align="center">
+<p align="left">
   <!-- Linux -->
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <!-- VSCODE -->
@@ -49,9 +51,9 @@
 </p>
 
 
-<h4 align="center">Front-End Tools:</h4>
+<h4 align="left">Front-End Tools:</h4>
 
-<p align="center">
+<p align="left">
  <!--REACT -->
 <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/ProHatp/ProHatp/blob/main/source.gif" alt="react" width="40" height="40"/> </a>
  <!-- Redux  -->
@@ -67,24 +69,25 @@
 </p>
 
 
-<h4 align="center">Back-End Tools:</h4>
+<h4 align="left">Back-End Tools:</h4>
 
-<p align="center">
+<p align="left">
  <!--MySQL -->
 <a href="https://dev.mysql.com" target="_blank"> <img src="https://devtools.com.br/blog/wp-content/uploads/2013/06/MySQL-Logo.wine_.png" alt="My SQL" width="40" height="40"/> </a>
 <!-- Express + Node -->
 <a href="http://expressjs.com" target="_blank"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node com Express" width="40" height="40"/> </a>
 </p>
 
+<h4 align="left">Testing Tools:</h4>
 
-<h4 align="center">Testing Tools:</h4>
-
-<p align="center">
+<p align="left">
  <!-- Jest -->
  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
  <!-- Testing Library -->
  <a href="https://testing-library.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" alt="Testing Library" width="40" height="40"/> </a>
 </p>
+ 
+</div>
   
  ##
  
