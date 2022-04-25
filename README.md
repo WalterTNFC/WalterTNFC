@@ -86,7 +86,7 @@
  <!-- Jest -->
  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
  <!-- Testing Library -->
- <a href="https://testing-library.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" alt="Testing Library" width="40" height="40"/> </a>
+<!--  <a href="https://testing-library.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" alt="Testing Library" width="40" height="40"/> </a> -->
 </p>
  
 </div>
