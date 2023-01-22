@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm Walter Frazão
 
-#### A developer from Brazil currently working as Junior Software Developer at [INTERA | Talent Hacking](https://www.linkedin.com/company/byintera/mycompany/) and [Trybe](https://www.linkedin.com/school/betrybe/) student.
+#### A developer from Brazil currently working as Junior Software Developer at [INTERA | Talent Hacking](https://www.linkedin.com/company/byintera/mycompany/) and [Trybe](https://www.linkedin.com/school/betrybe/) student. You can visit my <a href="https://waltertnfc.github.io/portfolio/" target="_blank">portfolio</a>.
 <div align="center">
   <a href="https://github.com/WalterTNFC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalterTNFC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
