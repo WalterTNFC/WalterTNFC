@@ -1,3 +1,5 @@
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
 ## Hey there 👋, I'm Walter Frazão
 
 #### A developer from Brazil currently working as Junior Software Developer at [INTERA | Talent Hacking](https://www.linkedin.com/company/byintera/mycompany/) and [Trybe](https://www.linkedin.com/school/betrybe/) student. You can visit my <a href="https://waltertnfc.github.io/portfolio/" target="_blank">portfolio</a>.
