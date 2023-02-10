@@ -105,6 +105,20 @@
 </div>
 
 -----
+
+<!-- <div>
+<img align="right" alt="Spotify list" width="200px" height="260px" src="[https://spotify-recently-played-readme.vercel.app/api?user=s6tdpztplplqxdvj0tcg1lah3](https://spotify-recently-played-readme.vercel.app/api?user=s6tdpztplplqxdvj0tcg1lah3&width={width})"/>
+<img align="right" alt="Spotify" width="200px" height="260px" src="https://spotify-github-profile.vercel.app/api/view?uid=s6tdpztplplqxdvj0tcg1lah3&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false"/>
+</div> -->
+  
+<div> 
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=s6tdpztplplqxdvj0tcg1lah3&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false"/>
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s6tdpztplplqxdvj0tcg1lah3&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=s6tdpztplplqxdvj0tcg1lah3"/>
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=s6tdpztplplqxdvj0tcg1lah3) -->
+
+</div>
  
 <div align="center"> 
   <a href="https://instagram.com/walterfrazao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
