@@ -52,6 +52,10 @@ src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubuserc
 &nbsp;
 <code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/postman.png"/></a></code>
 &nbsp;
+<code><a href="https://www.linux.org/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://jestjs.io" target="_blank"><img width="32" height="32" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/></a></code>
+&nbsp;
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png"/></a></code>
 </div>
 
