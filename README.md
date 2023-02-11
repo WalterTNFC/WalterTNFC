@@ -1,8 +1,97 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-## Hey there 👋, I'm Walter Frazão
+-----
+### Olá 👋, Eu sou o Walter Frazão
+</div>
+<div align="justify">
+Desenvolvedor Júnior atualmente trabalhando na <a href="https://www.linkedin.com/company/byintera/mycompany/" target="_blank">INTERA | Talent Hacking</a> e recentemente formado na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. Se quiser, pode visitar meu <a href="https://waltertnfc.github.io/portfolio/" target="_blank">portfolio</a> em construção :)
+</div>
 
-#### A developer from Brazil currently working as Junior Software Developer at [INTERA | Talent Hacking](https://www.linkedin.com/company/byintera/mycompany/) and [Trybe](https://www.linkedin.com/school/betrybe/) student. You can visit my <a href="https://waltertnfc.github.io/portfolio/" target="_blank">portfolio</a>.
+-----
+
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Sobre mim:
+
+<div align="justify">
+Sou natural de Belém do Pará, no Norte do país. Sou uma pessoa apaixonada por tecnologia e isso me levou a estudar Engenharia Elétrica na <a href="https://portal.ufpa.br/" target="_blank"> Universidade Federal do Pará</a> (2017-2022). Durante esse período tive a oportunidade de trabalhar como pesquisar no <a href="https://www.lasse.ufpa.br/" target="_blank">  Núcleo de P&D em Telecomunicações, Automação e Eletrônica</a>-LASSE (2019-2022), realizei trabalhos envolvendo aprendizado de máquina aplicado à telecomunicação, com um conjunto de dados gerados a partir de ferramenta de modelagem 3D (Blender) para aplicação do simulador de ray-tracing Python, com mobilidade e evolução temporal, canais de comunicação, consistência ao longo do tempo, frequência e espaço para tecnologias 5G, construído através da orquestração de múltiplos softwares. O <a href="https://www.lasse.ufpa.br/raymobtime/" target="_blank"> conjunto</a> de dados desenvolvido na pesquisa foi divulgado em um <a href="https://www.sbrt.org.br/sbrt2020/papers/1570661615.pdf" target="_blank">artigo</a> de iniciação científica.
+A pesquisa com aprendizado de máquina me incentivou a direcionar meus esforços ao estudo de programação e por conta disso iniciei minha jornada na Trybe para complementar minha formação em desenvolvimento de Software voltado ao frontend, backend e ciência da computação.
+No meu cargo atual sou responsável por atender o serviço interno da empresa e lido com tecnologias como NodeJs, PHP Laravel, MySQL, AWS, DynamoDB e atualmente tenho participado de projetos envolvendo raspagem de dados web tanto com Javascript quanto com Python.
+</div>
+
+-----
+
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Linguagens e ferramentas:
+
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/bash.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/python.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/c.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/cpp.svg"/></a></code>
+&nbsp; 
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/csharp.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/java.png"/></a></code>
+&nbsp; 
+<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/javafx.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/primefaces.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.playframework.com/" target="_blank"><img width="48" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/play.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/jenkins.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/html.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/css.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/js.png"/></a></code>
+&nbsp; 
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/react.png"/></a></code>
+&nbsp; 
+<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vbs.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.php.net/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/php.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mysql.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/postgresql.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mongodb.png"/></a></code>
+&nbsp; 
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/nodejs.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.lua.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/lua.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/docker.png"/></a></code>
+&nbsp; 
+<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/aws.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/heroku.png"/></a></code>
+&nbsp; 
+<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dotnet.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/postman.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.soapui.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/soap.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/pc.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/eclipse.png"/></a></code>
+&nbsp; 
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png"/></a></code>
+</div>
+
+-----
+
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WalterTNFC&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WalterTNFC&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WalterTNFC&theme=github_dark"/>
+</div>
+
+-----
+<!-- #### A developer from Brazil currently working as Junior Software Developer at [INTERA | Talent Hacking](https://www.linkedin.com/company/byintera/mycompany/) and [Trybe](https://www.linkedin.com/school/betrybe/) student. You can visit my <a href="https://waltertnfc.github.io/portfolio/" target="_blank">portfolio</a>. -->
 <div align="center">
   <a href="https://github.com/WalterTNFC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalterTNFC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -97,12 +186,12 @@
   
  -----
 
-<div>
+<!-- <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WalterTNFC&theme=github_dark"/>
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/> -->
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WalterTNFC&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WalterTNFC&theme=github_dark"/>
-</div>
+</div> -->
 
 -----
 
