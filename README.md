@@ -96,6 +96,12 @@ src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubuserc
 <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=s6tdpztplplqxdvj0tcg1lah3"/> -->
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=s6tdpztplplqxdvj0tcg1lah3) -->
 
+<div align="center">
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=WalterTNFC"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/WalterTNFC?style=social"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/WalterTNFC?style=social"/>
+</div>
+
 -----
 
 </div>
