@@ -68,7 +68,7 @@ src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubuserc
 -----
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Meus interesses pessoais:
 <div>
-<div align="justify">
+<!-- <div align="justify">
 <p>
 - :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuo como Tech Lead de Currículo.<br />
 (Responsável pelo currículo <i>hard skills</i> de Ciência da Computação)<br />
@@ -83,10 +83,11 @@ src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubuserc
 - :mailbox: &nbsp; Para me encontrar, esse é meu e-mail <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">pessoal</a> e esse é da <a href="mailto:joao.aramuni@betrybe.com" target="_blank">Trybe</a>.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
-</p>
-<div align="right">
+</p> -->
+<div align="center">
 <img alt="GIF" src="https://octodex.github.com/images/adventure-cat.png" width="220px"/>  
 <img alt="Spotify" width="200px" height="240px" src="https://spotify-github-profile.vercel.app/api/view?uid=s6tdpztplplqxdvj0tcg1lah3&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false"/>
+<img height="240px" src="https://spotify-recently-played-readme.vercel.app/api?user=s6tdpztplplqxdvj0tcg1lah3"/>
 </div>
 </div>
  
