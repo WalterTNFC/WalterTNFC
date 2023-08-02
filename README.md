@@ -7,7 +7,7 @@
 Desenvolvedor Júnior atualmente trabalhando na <a href="https://www.linkedin.com/company/byintera/mycompany/" target="_blank">INTERA | Talent Hacking</a> e recentemente formado na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. Se quiser, pode visitar meu <a href="https://waltertnfc.github.io/portfolio/" target="_blank">portfolio</a> em construção :)
 </div>
 
------
+----- 
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Sobre mim:
 
